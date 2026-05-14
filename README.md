@@ -1,9 +1,10 @@
 ## Sou Ramires! Bem-vindo(a) ao meu perfil 😁
 
- <div>
-   <a href="https://github.com/Ramires-Mendes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramires-Mendes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramires-Mendes&layout=compact&langs_count=6&theme=tokyonight"/>
+<div align="center">
+  <img height="180em"
+       src="https://ghstats.dev/api/card?username=Ramires-Mendes&theme=tokyonight&show_icons=true" />
+  <img height="180em"
+       src="https://ghstats.dev/api/top-langs?username=Ramires-Mendes&theme=tokyonight&layout=compact&langs_count=8" />
 </div>
     
 <div style="display: inline_block"><br>
