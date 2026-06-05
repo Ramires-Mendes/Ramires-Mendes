@@ -1,7 +1,11 @@
-💻 Desenvolvedor Front-end em formação
-⚡ HTML | CSS | JavaScript
-🚚 Estagiário em tecnologia para logística
+<div align="center">
+
+💻 Desenvolvedor Front-end em formação<br>
+⚡ HTML • CSS • JavaScript<br>
+🚚 Tecnologia para logística de materiais<br>
 🏗️ Experiência no setor da construção civil
+
+</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
