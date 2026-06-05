@@ -1,11 +1,7 @@
-## Sou Ramires! Bem-vindo(a) ao meu perfil 😁
-
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Ramires-Mendes&show_icons=true&theme=tokyonight" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramires-Mendes&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
+💻 Desenvolvedor Front-end em formação
+⚡ HTML | CSS | JavaScript
+🚚 Estagiário em tecnologia para logística
+🏗️ Experiência no setor da construção civil
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
