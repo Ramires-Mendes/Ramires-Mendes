@@ -2,9 +2,9 @@
 
 <div align="center">
   <img height="180em"
-       src="https://ghstats.dev/api/card?username=Ramires-Mendes&theme=tokyonight&show_icons=true" />
+       src="https://github-readme-stats.vercel.app/api?username=Ramires-Mendes&show_icons=true&theme=tokyonight" />
   <img height="180em"
-       src="https://ghstats.dev/api/top-langs?username=Ramires-Mendes&theme=tokyonight&layout=compact&langs_count=8" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramires-Mendes&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
     
 <div style="display: inline_block"><br>
